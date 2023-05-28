@@ -29,5 +29,4 @@ product_categories:
   - category-x
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685295697
-product_image: test1/testbild1.jpg
 ---
