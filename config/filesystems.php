@@ -65,6 +65,14 @@ return [
             'throw' => false,
         ],
 
+        'product-images' => [
+            'driver' => 'local',
+            'root' => public_path('product-images'),
+            'url' => '/product-images',
+            'visibility' => 'public',
+            'throw' => false,
+        ],
+
     ],
 
     /*

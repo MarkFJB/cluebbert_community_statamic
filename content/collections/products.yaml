@@ -1,0 +1,15 @@
+title: Products
+template: default
+layout: layout
+taxonomies:
+  - product_categories
+revisions: false
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private
+preview_targets:
+  -
+    label: Entry
+    url: '{permalink}'
+    refresh: true

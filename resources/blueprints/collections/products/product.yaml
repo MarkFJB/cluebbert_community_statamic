@@ -1,0 +1,94 @@
+title: Product
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: title
+            field:
+              type: text
+              required: true
+              validate:
+                - required
+          -
+            handle: subtitle
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Subtitle
+              icon: text
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              hide_display: false
+          -
+            handle: description
+            field:
+              buttons:
+                - bold
+                - italic
+                - removeformat
+              smart_typography: false
+              save_html: false
+              inline: false
+              toolbar_mode: fixed
+              reading_time: false
+              fullscreen: true
+              allow_source: false
+              enable_input_rules: false
+              enable_paste_rules: false
+              remove_empty_nodes: false
+              antlers: false
+              link_noopener: false
+              link_noreferrer: false
+              target_blank: false
+              type: bard
+              display: Description
+              icon: bard
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              hide_display: false
+  sidebar:
+    display: Sidebar
+    sections:
+      -
+        fields:
+          -
+            handle: slug
+            field:
+              type: slug
+              localizable: true
+          -
+            handle: product_categories
+            field:
+              type: terms
+              taxonomies:
+                - product_categories
+              display: 'Product Categories'
+              mode: select
+              instructions_position: above
+              listable: hidden
+              visibility: visible
+              create: false
+              hide_display: false
+          -
+            handle: product_image
+            field:
+              max_files: 1
+              mode: list
+              container: assets
+              restrict: false
+              allow_uploads: true
+              show_filename: true
+              show_set_alt: false
+              type: assets
+              display: 'Product Image'
+              icon: assets
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              hide_display: false

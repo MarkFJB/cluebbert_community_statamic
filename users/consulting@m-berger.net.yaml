@@ -2,3 +2,11 @@ name: 'Markus Berger'
 super: true
 id: 489b06db-283b-4690-a50e-8a3ba37dc968
 password_hash: $2y$10$yij29IOMLb3XPuc0Ajk56.hdTzISg6gkYx0wj3CwtEN8a9aMcM4gq
+preferences:
+  collections:
+    products:
+      columns:
+        - title
+        - status
+        - product_image
+        - product_categories
