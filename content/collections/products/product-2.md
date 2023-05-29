@@ -24,7 +24,5 @@ description:
         text: 'C Content and description and more text...'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685299348
-product_categories:
-  - category-y
 product_image: 18-Offenheit-Akzeptanz_800x800-W.jpg
 ---
