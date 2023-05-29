@@ -13,13 +13,12 @@ tabs:
               validate:
                 - required
           -
-            handle: subtitle
+            handle: short_description
             field:
-              input_type: text
               antlers: false
-              type: text
-              display: Subtitle
-              icon: text
+              type: textarea
+              display: 'Short Description'
+              icon: textarea
               listable: hidden
               instructions_position: above
               visibility: visible
