@@ -1,34 +1,28 @@
 ---
 id: wp333
 blueprint: product
-title: 'Some Other Product (not created in web backend)'
-subtitle: 'Subtitle and more...'
+title: 'Title with "special character" and & more ''of'' them...'
 description:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.'
+        text: 'Short Description with "special character" and & more ''of'' them...'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Lorem ipsum dolor no sea takimata sanctus est Lorem ipsum dolor sit amet.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Lorem ipsum dolor sit amet, consetetur sadips amet.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Some more text...'
+        text: 'Short Description with "special character" and & more ''of'' them...'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
-updated_at: 1685351307
+updated_at: 1685369729
 product_image: 18-Offenheit-Akzeptanz_800x800-W.jpg
+short_description:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Short Description with "special character" and & more ''of'' them...'
 ---
