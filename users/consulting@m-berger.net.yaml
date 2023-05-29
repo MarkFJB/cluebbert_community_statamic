@@ -10,3 +10,7 @@ preferences:
         - status
         - product_image
         - product_categories
+      filters:
+        wandbilder:
+          display: Wandbilder
+          query: wand
