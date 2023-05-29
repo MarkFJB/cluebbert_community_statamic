@@ -13,12 +13,44 @@ tabs:
               validate:
                 - required
           -
+            handle: product_image
+            field:
+              max_files: 1
+              mode: list
+              container: assets
+              restrict: false
+              allow_uploads: true
+              show_filename: true
+              show_set_alt: false
+              type: assets
+              display: 'Product Image'
+              icon: assets
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              hide_display: false
+          -
             handle: short_description
             field:
+              buttons:
+                - removeformat
+              smart_typography: false
+              save_html: false
+              inline: false
+              toolbar_mode: fixed
+              reading_time: false
+              fullscreen: true
+              allow_source: false
+              enable_input_rules: false
+              enable_paste_rules: false
+              remove_empty_nodes: false
               antlers: false
-              type: textarea
-              display: 'Short Description'
-              icon: textarea
+              link_noopener: false
+              link_noreferrer: false
+              target_blank: false
+              type: bard
+              display: 'Short description'
+              icon: bard
               listable: hidden
               instructions_position: above
               visibility: visible
@@ -73,21 +105,4 @@ tabs:
               listable: hidden
               visibility: visible
               create: false
-              hide_display: false
-          -
-            handle: product_image
-            field:
-              max_files: 1
-              mode: list
-              container: assets
-              restrict: false
-              allow_uploads: true
-              show_filename: true
-              show_set_alt: false
-              type: assets
-              display: 'Product Image'
-              icon: assets
-              listable: hidden
-              instructions_position: above
-              visibility: visible
               hide_display: false
