@@ -29,6 +29,8 @@ tabs:
               instructions_position: above
               visibility: visible
               hide_display: false
+              validate:
+                - 'mimes:jpg'
           -
             handle: short_description
             field:
