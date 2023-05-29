@@ -1,0 +1,9 @@
+wordpress_id: 20
+wordpress_name: 'Bücher &amp; Kartensets'
+wordpress_slug: buecher
+wordpress_parent: 0
+title: 'Bücher & Kartensets'
+author: 489b06db-283b-4690-a50e-8a3ba37dc968
+updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
+updated_at: 1685358340
+blueprint: product_category
