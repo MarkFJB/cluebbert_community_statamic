@@ -59,8 +59,6 @@ tabs:
             handle: description
             field:
               buttons:
-                - bold
-                - italic
                 - removeformat
               smart_typography: false
               save_html: false
