@@ -50,7 +50,7 @@ description:
         text: 'Häufig wird dieses Spray in Kombination mit "Heilheit leben (HHl)" angewendet'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_categories:
+product_tags:
   - energiesprays
   - koerperenergiewissen
 product_image: HZI_30ml_800x800px.jpg

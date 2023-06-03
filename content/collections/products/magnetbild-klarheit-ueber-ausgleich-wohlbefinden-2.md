@@ -68,7 +68,7 @@ description:
         text: 'Hinweise: Eine optimale energetische Wirkung erhalten Sie, wenn Sie die Magnete auf der einfarbigen Fläche der Magnetwand platzieren und das Blütenenergiebild frei wirken lassen.'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_categories:
+product_tags:
   - bewusstsein-wandbilder
   - energiebilder
   - magnetbilder

@@ -56,7 +56,7 @@ description:
         text: 'Bildtitel: Heilheit I-8: Universelle Liebe - Lichtenergie/Lichtinformation. Reihe: Heilheit'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_categories:
+product_tags:
   - spiritualitaet-wandbilder
   - wandbilder
 product_image: Heilheit8_800x800-W.jpg

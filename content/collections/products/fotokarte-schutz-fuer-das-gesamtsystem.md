@@ -50,7 +50,7 @@ description:
         text: 'Das Energiefeld (im Sinne von Informationen) dieser Karte kann einfach über das bewusste Konzentrieren auf den für sich selbst erwünschten inneren Zustand aktiviert werden. Bitte beachten Sie, dass die Karten so programmiert sind, dass jeweils nur der Teil des Kartenenergiefeldes von Ihnen aktiviert wird, der stimmig für Sie ist. Unsere Energieartikel sind zur Unterstützung der Aktivierung von Selbststeuerungsimpulsen entwickelt.'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_categories:
+product_tags:
   - fotokarten
   - gesunde-lebensfuehrung
 product_image: SCHUTZ-V_800x800-W-1.jpg

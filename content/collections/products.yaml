@@ -2,7 +2,7 @@ title: Products
 template: default
 layout: layout
 taxonomies:
-  - product_categories
+  - product_tags
 revisions: false
 sort_dir: asc
 date_behavior:

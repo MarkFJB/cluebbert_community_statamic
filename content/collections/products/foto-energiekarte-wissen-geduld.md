@@ -62,7 +62,7 @@ description:
         text: 'Das Informationsfeld dieser Karte kann einfach über das bewusste Konzentrieren auf den für sich selbst erwünschten inneren Zustand aktiviert werden. Bitte beachten Sie, dass die Karten so programmiert sind, dass jeweils nur der Teil des Kartenenergiefeldes von Ihnen aktiviert wird, der stimmig für Sie ist. Unsere Energieartikel sind zur Unterstützung der Aktivierung von Selbststeuerungsimpulsen entwickelt. Fragen zur Energiefeldtechnik und unseren Energiekarten beantworten wir Ihnen gerne persönlich, in unseren offenen Verkaufstunden, Kursen oder anderen Events, wie den monatlichen Tagen der offenen Tür. Hier können Sie Elveden Energieartikel kostenlos kennenlernen und testen.'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_categories:
+product_tags:
   - fotokarten
   - wissen
 product_image: Geduld-s_Wissenstor_Bewusstsein_Elveden_8x8.jpg

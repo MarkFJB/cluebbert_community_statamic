@@ -9,7 +9,7 @@ preferences:
         - title
         - status
         - product_image
-        - product_categories
+        - product_tags
       filters:
         wandbilder:
           display: Wandbilder

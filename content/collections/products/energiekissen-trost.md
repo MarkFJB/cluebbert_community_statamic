@@ -50,7 +50,7 @@ description:
         text: 'Die Energiefotos für dieses Kissen: Trost 2.1: Konkretes, Trost 1.2: Unbenennbares'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_categories:
+product_tags:
   - energiekissen
 product_image: Energiearbeit_Energiekissen_Bluetenenergie_Trost_Muenchen_8x8-W2.jpg
 ---

@@ -50,7 +50,7 @@ description:
         text: 'Die Komposition und Aufnahme ist in Gemeinschaftsarbeit von Mitglieder der ElvedenEnergyArtGroup. Die CD ist von der Aufnahme bis zum Druck in Deutschland hergestellt. Alle Erlöse, die über unsere Herstellungskosten hinausgehen, fließen dem Elveden Förderverein (in Gründungsvorbereitung) zu.'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_categories:
+product_tags:
   - energiemusik
 product_image: CD2-Titelseite_z1-Kopie_800x800-W.jpg
 ---

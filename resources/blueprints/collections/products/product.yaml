@@ -94,12 +94,12 @@ tabs:
               type: slug
               localizable: true
           -
-            handle: product_categories
+            handle: product_tags
             field:
               type: terms
               taxonomies:
-                - product_categories
-              display: 'Product Categories'
+                - product_tags
+              display: 'Product Tags'
               mode: select
               instructions_position: above
               listable: hidden

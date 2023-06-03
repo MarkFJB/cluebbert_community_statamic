@@ -56,7 +56,7 @@ description:
         text: '60% des Erlöses der Reihe "Heilheit" fließen dem gemeinnützigen Elveden Förderverein e.V. zu.'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_categories:
+product_tags:
   - spiritualitaet-wandbilder
   - wandbilder
 product_image: Heilheit5_800x800-W.jpg

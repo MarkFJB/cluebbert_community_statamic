@@ -50,7 +50,7 @@ description:
         text: 'Das Energiefeld dieser Karte kann aktiviert werden über das bewusste Konzentrieren auf die gewünschte emotionale Freiheit in Beziehungen. Bitte beachten Sie, dass jeweils nur der Teil des Kartenenergiefeldes von Ihnen aktiviert werden kann, der für Sie jeweils stimmig ist. Fragen zur Energiefeldtechnik beantworten wir Ihnen gerne persönlich, in unseren Verlagsstunden und Kursen.'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_categories:
+product_tags:
   - beziehung
   - fotokarten
 product_image: BEZIEHUNG-IIc_800x800-W.jpg

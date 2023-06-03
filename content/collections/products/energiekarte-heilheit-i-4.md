@@ -50,7 +50,7 @@ description:
         text: 'Größe: DIN-A6 zzgl. ca. 2 cm Rand, Elveden®-Impulsintensität: DIN-A4-A7: Et0, DIN-A8: Et1'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_categories:
+product_tags:
   - fotokarten
   - spiritualitaet
 product_image: Heilheit4_800x800-W.jpg

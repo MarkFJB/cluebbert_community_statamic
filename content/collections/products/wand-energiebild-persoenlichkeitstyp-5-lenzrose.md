@@ -56,7 +56,7 @@ description:
         text: 'Hier im Shop auch als Foto-Energiekarte erhältlich'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_categories:
+product_tags:
   - energiebilder
   - neuerscheinungen
   - persoenlichkeit-wandbilder
