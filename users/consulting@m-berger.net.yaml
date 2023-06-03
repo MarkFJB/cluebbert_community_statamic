@@ -14,3 +14,9 @@ preferences:
         wandbilder:
           display: Wandbilder
           query: wand
+  taxonomies:
+    product_tags:
+      columns:
+        - title
+        - slug
+        - description
