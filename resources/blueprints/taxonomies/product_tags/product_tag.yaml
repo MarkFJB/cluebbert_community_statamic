@@ -25,7 +25,7 @@ tabs:
               allow_source: false
               enable_input_rules: false
               enable_paste_rules: false
-              remove_empty_nodes: false
+              remove_empty_nodes: trim
               antlers: false
               link_noopener: false
               link_noreferrer: false
