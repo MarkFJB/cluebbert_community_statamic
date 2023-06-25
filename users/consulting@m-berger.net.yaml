@@ -21,6 +21,12 @@ preferences:
         - document
         - tags
         - status
+    information:
+      columns:
+        - title
+        - content
+        - tags
+        - status
   taxonomies:
     tags:
       columns:

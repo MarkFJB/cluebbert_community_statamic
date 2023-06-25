@@ -3,7 +3,9 @@ id: 318463cd-0883-44b6-ad3c-82c23da95100
 blueprint: information
 title: Anwendungshinweise
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
-updated_at: 1686076821
+updated_at: 1687716818
+tags:
+  - bewusstsein-wandbilder
 content:
   -
     type: paragraph

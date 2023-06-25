@@ -3,7 +3,9 @@ id: db3e1327-1e5c-4f76-a5cf-a687ad9792df
 blueprint: information
 title: 'Sonstige Hinweise'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
-updated_at: 1686076875
+updated_at: 1687716825
+tags:
+  - emotion-wandbilder
 content:
   -
     type: paragraph

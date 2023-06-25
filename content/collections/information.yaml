@@ -1,6 +1,8 @@
 title: Information
 template: default
 layout: layout
+taxonomies:
+  - tags
 revisions: false
 sort_dir: asc
 date_behavior:

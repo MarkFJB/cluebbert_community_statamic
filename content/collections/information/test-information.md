@@ -3,7 +3,10 @@ id: 2bf13ba4-7815-4fd4-a1c2-67d79bbdd5b2
 blueprint: information
 title: 'Test Information'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
-updated_at: 1686324424
+updated_at: 1687716833
+tags:
+  - spiritualitaet
+  - wissen-2
 content:
   -
     type: paragraph
