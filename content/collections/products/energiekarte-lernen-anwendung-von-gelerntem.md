@@ -44,7 +44,7 @@ description:
         text: 'Größe: DIN-A6 zzgl. ca. 2 cm Rand'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_tags:
+tags:
   - fotokarten
   - wissen
 product_image: Lernen-Vc_800x800-W.jpg

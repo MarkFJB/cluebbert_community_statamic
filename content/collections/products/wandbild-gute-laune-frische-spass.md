@@ -50,7 +50,7 @@ description:
         text: 'Bildtitel: Gute Laune 1.2: Frische & Spaß. Reihe: Gute Laune'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_tags:
+tags:
   - emotion-wandbilder
   - wandbilder
 product_image: GuteLaune_1.2-Kopie_800x800-W.jpg

@@ -50,7 +50,7 @@ description:
         text: 'Das Energiefoto für dieses Kissen: Sanfte Regeneration 2: Beruhigung, Reihe Sanfte Regeneration'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_tags:
+tags:
   - energiekissen
   - neuerscheinungen
 product_image: Energiekissen_Elveden_Sanfte-Regeneration_Beruhigung-_800x800-W.jpg

@@ -104,7 +104,7 @@ description:
         text: 'Für Händler: siehe VLB oder kontaktieren Sie uns gerne direkt'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_tags:
+tags:
   - buecher
 product_image: Bluetentarot_inSaeckchen_800x800px.jpg
 ---

@@ -62,7 +62,7 @@ description:
         text: 'Weitere Größen sind für Sie individuell innerhalb weniger Tage herstellbar. Bitte kontaktieren Sie uns hierfür unter info@elvedenverlag.de.'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_tags:
+tags:
   - fotokarten
   - gesunde-lebensfuehrung
 product_image: Schlaf-Wach-Rythmus_Bewusstsein_Elvedenenergie_8x8.jpg

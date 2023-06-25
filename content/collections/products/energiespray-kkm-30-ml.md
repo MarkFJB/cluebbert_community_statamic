@@ -62,7 +62,7 @@ description:
         text: '&nbsp;'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_tags:
+tags:
   - energiesprays
   - koerperenergiewissen
 product_image: KKm_30ml_800x800px.jpg

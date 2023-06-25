@@ -50,7 +50,7 @@ description:
         text: 'Das Energiefeld dieses Bildes kann einfach über das bewusste Konzentrieren auf den für sich selbst erwünschten inneren Zustand an Wissen, im Sinne eines symbolischen Tores, hinter dem sich der große Raum von Wissen unterschiedlichster Art öffnet, aktiviert werden. Es aktiviert sich jeweils der Teil des Bildenergiefeldes, der aktuell förderlich ist. Weitere Fragen zur Energiefeldtechnik beantworten wir gerne telefonisch, per Mail oder persönlich im Verlag in München und in unseren Kursen.'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_tags:
+tags:
   - energiesprays
 product_image: EV_Basis_kl_800x800px.jpg
 ---

@@ -56,7 +56,7 @@ description:
         text: 'Das Informationsfeld dieses Energiekissens ist hier im Shop auch erhältlich als Fotokarte, Wandbild und Energiespray'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_tags:
+tags:
   - energetisierung-energiekissen
   - energiekissen
 product_image: 16-Potenziale_Energetisierung-16_800x800-W2.jpg

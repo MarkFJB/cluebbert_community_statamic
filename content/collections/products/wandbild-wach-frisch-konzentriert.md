@@ -56,7 +56,7 @@ description:
         text: "Erhältlich auch\_in der\_Größe 30 x 45. Weitere Größen oder andere Seitenverhältnisse, sind bis 200 cm individuell für Sie innerhalb weniger Tage herstellbar. Bitte kontaktieren Sie uns hierfür unter info@elvedenverlag.de."
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685994868
-product_tags:
+tags:
   - energiebilder
   - gesunde-lebensfuehrung-wandbilder
   - wandbilder

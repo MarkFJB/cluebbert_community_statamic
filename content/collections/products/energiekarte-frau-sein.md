@@ -50,7 +50,7 @@ description:
         text: 'Das Energiefeld dieser Karte kann einfach über das bewusste Konzentrieren auf den für sich selbst erwünschten inneren Zustand aktiviert werden. Bitte beachten Sie, dass jeweils nur der Teil des Kartenenergiefeldes von Ihnen aktiviert werden kann, der für Sie jeweils stimmig ist. Fragen zur Energiefeldtechnik beantworten wir Ihnen gerne.'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_tags:
+tags:
   - beziehung
   - fotokarten
 product_image: SEIN-FrauSein-b_800x800-W-1.jpg

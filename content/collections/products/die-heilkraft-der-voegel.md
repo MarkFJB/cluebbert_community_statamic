@@ -43,7 +43,7 @@ description:
         text: 'Weihnachtsaktion für Händler: Information'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_tags:
+tags:
   - buecher
 product_image: Vogelbuch_Titel_fotografiert800x8001.jpg
 ---

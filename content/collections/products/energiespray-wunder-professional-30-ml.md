@@ -62,7 +62,7 @@ description:
         text: 'Das Energiefeld dieses Sprays kann aktiviert werden über das bewusste Konzentrieren auf den für sich selbst erwünschten inneren Zustand an Wissen über Körperenergien. Es aktiviert sich jeweils der Teil des Sprayinformationsfeldes, der jeweils förderlich ist.'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_tags:
+tags:
   - energiesprays
   - koerperenergiewissen
 product_image: Wunder_30ml_800x800px.jpg

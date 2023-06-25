@@ -62,7 +62,7 @@ description:
         text: '*Liste mit Inhaltsstoffen der ätherischen Öle ist in Bearbeitung. Bis zur Veröffentlichung erhalten Sie diese Liste gerne als Email. Wir danken Ihnen für diesen Zwischenschritt'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_tags:
+tags:
   - energiesprays
   - persoenlichkeit-energiesprays
 product_image: Akelei_30ml_800x800px.jpg

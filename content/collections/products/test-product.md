@@ -23,7 +23,7 @@ description:
       -
         type: text
         text: 'At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.'
-product_tags:
+tags:
   - test-tag
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1686323800

@@ -9,13 +9,13 @@ preferences:
         - title
         - status
         - product_image
-        - product_tags
+        - tags
       filters:
         wandbilder:
           display: Wandbilder
           query: wand
   taxonomies:
-    product_tags:
+    tags:
       columns:
         - title
         - slug

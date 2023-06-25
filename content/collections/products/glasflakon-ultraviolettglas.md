@@ -62,7 +62,7 @@ description:
         text: '&nbsp;'
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
 updated_at: 1685351307
-product_tags:
+tags:
   - zubehoer-in-planung
 product_image: Spruehflasche_leer_10ml_800x800px.jpg
 ---
