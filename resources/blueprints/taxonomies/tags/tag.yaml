@@ -52,4 +52,4 @@ tabs:
               required: true
               validate:
                 - required
-title: 'Product Tag'
+title: 'Tag'
