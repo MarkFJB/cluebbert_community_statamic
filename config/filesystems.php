@@ -73,6 +73,14 @@ return [
             'throw' => false,
         ],
 
+        'documents' => [
+            'driver' => 'local',
+            'root' => public_path('documents'),
+            'url' => '/documents',
+            'visibility' => 'public',
+            'throw' => false,
+        ],
+
     ],
 
     /*
