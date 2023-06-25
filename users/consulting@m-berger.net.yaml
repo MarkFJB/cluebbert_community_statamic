@@ -7,13 +7,20 @@ preferences:
     products:
       columns:
         - title
-        - status
         - product_image
         - tags
+        - status
       filters:
         wandbilder:
           display: Wandbilder
           query: wand
+    documents:
+      columns:
+        - title
+        - description
+        - document
+        - tags
+        - status
   taxonomies:
     tags:
       columns:
