@@ -17,8 +17,8 @@ description:
         text: 'At vero eos et accusam et justo duo dolores et ea rebum.'
 document: test-2.pdf
 updated_by: 489b06db-283b-4690-a50e-8a3ba37dc968
-updated_at: 1687684321
+updated_at: 1687691061
 duplicated_from: 66bda3e8-a0bc-4dae-a003-caeb5921e8ee
 tags:
-  - buecher
+  - allgemeine-informationen
 ---
