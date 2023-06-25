@@ -2994,7 +2994,7 @@
         },
         {
             "name": "maennchen/zipstream-php",
-            "version": "v2.4.0",
+            "version": "2.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/maennchen/ZipStream-PHP.git",
@@ -3056,7 +3056,7 @@
             ],
             "support": {
                 "issues": "https://github.com/maennchen/ZipStream-PHP/issues",
-                "source": "https://github.com/maennchen/ZipStream-PHP/tree/v2.4.0"
+                "source": "https://github.com/maennchen/ZipStream-PHP/tree/2.4.0"
             },
             "funding": [
                 {
@@ -5022,16 +5022,16 @@
         },
         {
             "name": "statamic/cms",
-            "version": "v4.6.0",
+            "version": "v4.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/statamic/cms.git",
-                "reference": "1fc2a678173a9bc44f8059c7ffb49dcec8acec1f"
+                "reference": "27fb2a3136365513bda3a36ce1e83969b8673c1e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/statamic/cms/zipball/1fc2a678173a9bc44f8059c7ffb49dcec8acec1f",
-                "reference": "1fc2a678173a9bc44f8059c7ffb49dcec8acec1f",
+                "url": "https://api.github.com/repos/statamic/cms/zipball/27fb2a3136365513bda3a36ce1e83969b8673c1e",
+                "reference": "27fb2a3136365513bda3a36ce1e83969b8673c1e",
                 "shasum": ""
             },
             "require": {
@@ -5111,7 +5111,7 @@
             ],
             "support": {
                 "issues": "https://github.com/statamic/cms/issues",
-                "source": "https://github.com/statamic/cms/tree/v4.6.0"
+                "source": "https://github.com/statamic/cms/tree/v4.8.0"
             },
             "funding": [
                 {
@@ -5119,7 +5119,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2023-06-07T20:16:59+00:00"
+            "time": "2023-06-23T20:54:39+00:00"
         },
         {
             "name": "statamic/stringy",
