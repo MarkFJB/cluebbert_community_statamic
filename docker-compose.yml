@@ -1,0 +1,24 @@
+version: "3.9"
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: statamiccms  # This line defines the name of your Docker image
+    container_name: statamiccms_container  # You might want to update the container name as well
+    restart: unless-stopped
+    tty: true
+    environment:
+      SERVICE_NAME: statamiccms
+      SERVICE_TAGS: dev
+    working_dir: /var/www/html
+    volumes:
+      - ./:/var/www/html
+    networks:
+      - app-network
+    ports:
+      - 80:80
+
+networks:
+  app-network:
+    driver: bridge
