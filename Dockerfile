@@ -27,8 +27,9 @@ COPY --from=composer /usr/bin/composer /usr/bin/composer
 RUN chown -R www-data:www-data /var/www/html \
     && a2enmod rewrite
 
-# Change apache2 document root to laravel public directory
-RUN sed -i 's!/var/www/html!/var/www/html/public!g' /etc/apache2/sites-available/000-default.conf 
+# Change apache2 document root to laravel public directory and add redirect
+RUN sed -i 's!/var/www/html!/var/www/html/public!g' /etc/apache2/sites-available/000-default.conf \
+    && echo 'RedirectMatch ^/$ /cp' >> /etc/apache2/sites-available/000-default.conf 
 
 # Restart apache to make changes take effect
 RUN service apache2 restart
